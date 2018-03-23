@@ -1,0 +1,2 @@
+# Minute | Hour | Day | Month | Day of Week | Task
+     0       21     *      *          *         /file/path/to/APOD_background.sh
